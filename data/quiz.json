@@ -1,0 +1,35 @@
+{
+    "title":"Country Quiz",
+    "questions":[
+        {
+            "question":"What is the capital of Bangladesh?",
+            "type":"single",
+            "options":["Dhaka","Chittagong","Rajshahi","Khulna"],
+            "answer":"Dhaka"
+        },
+        {
+            "question":"Which of the following area are located in Bangladesh",
+            "type":"multiple",
+            "options": ["Dhaka","Paris","Istanbul","Rajshahi", "Khulna"],
+            "answer":["Dhaka","Rajshahi", "Khulna"]
+        },
+        {
+            "question": "What is the national language of Bangladesh?",
+            "type": "single",
+            "options": ["Bengali", "Hindi", "Urdu", "English"],
+            "answer": "Bengali"
+        },
+        {
+            "question": "Which river is the longest in Bangladesh?",
+            "type": "single",
+            "options": ["Padma", "Jamuna", "Meghna", "Brahmaputra"],
+            "answer": "Padma"
+        },
+        {
+            "question": "Which of the following are famous tourist spots in Bangladesh?",
+            "type": "multiple",
+            "options": ["Cox's Bazar", "Sundarbans", "Taj Mahal", "Kuakata"],
+            "answer": ["Cox's Bazar", "Sundarbans", "Kuakata"]
+        }
+    ]
+}

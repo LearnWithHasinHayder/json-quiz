@@ -1,0 +1,65 @@
+{
+    "title": "World Sports Quiz",
+    "questions": [
+        {
+            "question": "Which countries have won the FIFA World Cup more than once?",
+            "type": "multiple",
+            "options": ["France", "Croatia", "Brazil", "Germany"],
+            "answer": ["Brazil", "Germany", "France"]
+        },
+        {
+            "question": "Who holds the record for the most Grand Slam titles in tennis?",
+            "type": "single",
+            "options": ["Roger Federer", "Rafael Nadal", "Novak Djokovic", "Pete Sampras"],
+            "answer": "Roger Federer"
+        },
+        {
+            "question": "In which sports is the term 'home run' used?",
+            "type": "multiple",
+            "options": ["Cricket", "Baseball", "Football", "Basketball"],
+            "answer": ["Baseball"]
+        },
+        {
+            "question": "Which countries have won the most Olympic gold medals in hockey?",
+            "type": "multiple",
+            "options": ["India", "Australia", "Germany", "Netherlands"],
+            "answer": ["India", "Australia"]
+        },
+        {
+            "question": "Who is known as the 'Lightning Bolt' in athletics?",
+            "type": "single",
+            "options": ["Usain Bolt", "Carl Lewis", "Michael Johnson", "Tyson Gay"],
+            "answer": "Usain Bolt"
+        },
+        {
+            "question": "Which country hosts the annual Tour de France cycling race?",
+            "type": "single",
+            "options": ["Italy", "Spain", "France", "Belgium"],
+            "answer": "France"
+        },
+        {
+            "question": "In which sports is the term 'birdie' used?",
+            "type": "multiple",
+            "options": ["Tennis", "Golf", "Badminton", "Squash"],
+            "answer": ["Golf", "Badminton"]
+        },
+        {
+            "question": "Which countries won the first ever Rugby World Cup in 1987?",
+            "type": "multiple",
+            "options": ["Australia", "England", "New Zealand", "South Africa"],
+            "answer": ["New Zealand"]
+        },
+        {
+            "question": "Who is the NBA's all-time leading scorer?",
+            "type": "single",
+            "options": ["Michael Jordan", "LeBron James", "Kareem Abdul-Jabbar", "Kobe Bryant"],
+            "answer": "Kareem Abdul-Jabbar"
+        },
+        {
+            "question": "Which countries are known for the martial art of Taekwondo?",
+            "type": "multiple",
+            "options": ["China", "Japan", "South Korea", "Thailand"],
+            "answer": ["South Korea"]
+        }
+    ]
+}
